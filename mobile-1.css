@@ -1,0 +1,35 @@
+body{
+    /* background-image: url(karolbg-mobile.png); */
+    background-image: linear-gradient(to bottom right,rgba(233, 82, 190, 0.302),white), url(karolbg-mobile.png);
+    background-repeat: no-repeat;
+    object-fit: contain;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    height:100vh;
+    width:100%
+}
+
+.bichota{
+    font-family:font-family, 'Cormorant Garamond', serif;
+    font-family: 'Permanent Marker', cursive;
+    color:black;
+}
+
+h1{
+    margin:60rem 0rem 0rem 26rem
+}
+
+p{
+    margin:0rem 0rem 0rem 29rem 
+}
+
+button{
+    background-size: cover;
+    border:rgb(48, 42, 48) solid 2px;
+    padding:25px 49px 25px 0px;
+    margin:0px 0px 0px 28.5rem ;
+    color:rgb(13, 11, 12);
+    font-size: 14px;  
+    background-image: url(sirena.png);  
+}

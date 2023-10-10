@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to bottom right, rgba(238, 124, 215, 0.683),rgb(34, 34, 30)) ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:100vh;
+}
+
+.yt{
+    height:200px;
+    margin:9rem 0rem 0rem 9rem
+}

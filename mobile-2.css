@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(to bottom, rgb(17, 239, 17), black, rgb(255, 217, 242));
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1{
+    color:rgb(244, 11, 225);
+    text-align: center;
+    margin:5rem 0rem 0rem 0rem ;
+    font-family:font-family, 'Cormorant Garamond', serif;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.red-karo{
+    height:8rem;
+    margin:2rem 3rem 3rem 3rem ;
+    float:left;
+    border: solid 2px red;
+}
+
+.oki-karo{
+    height:8rem;
+    float:right;
+    margin:2rem 3rem 3rem 3rem ;
+    border:solid 2px hotpink
+}
+
+li{
+    color:white;
+    margin: .5rem .5rem .5rem .5rem ;
+    font-family:font-family, 'Cormorant Garamond', serif;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.blue-karo{
+    height:8rem;
+    float:left;
+    margin:1rem 0rem 0rem 3rem;
+    border: solid 2px rgb(72, 0, 255);
+}
+
+.gold-karo{
+    height:8rem;
+    float:right;
+    margin:1rem 3rem 0rem 0rem;
+    border:solid 2px gold 
+}
+
+button{
+    background-image: url(flowers.png);
+    background-size: cover;
+    padding:1rem 2.2rem 1rem 2.7rem ;
+    margin: .3rem 2rem .3rem 15rem 
+
+}
